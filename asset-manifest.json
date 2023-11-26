@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FilmyLand/static/css/main.f01f0998.css",
+    "main.js": "/FilmyLand/static/js/main.1a57ad31.js",
+    "index.html": "/FilmyLand/index.html",
+    "static/media/search.svg": "/FilmyLand/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.f01f0998.css.map": "/FilmyLand/static/css/main.f01f0998.css.map",
+    "main.1a57ad31.js.map": "/FilmyLand/static/js/main.1a57ad31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f01f0998.css",
+    "static/js/main.1a57ad31.js"
+  ]
+}
